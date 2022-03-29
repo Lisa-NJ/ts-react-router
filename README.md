@@ -22,18 +22,18 @@ You will also see any lint errors in the console.
 - Topics uses the Switch and Route, and gives an example of how to use 'useParams'
 
 # Hooks & Components Used
-useLocation
-useHistory
-useParams
-useState
-useContext
-useRouteMatch
-createContext
-BrowserRouter
-Link
-Switch
-Router
-Redirect
+- useLocation
+- useHistory
+- useParams
+- useState
+- useContext
+- useRouteMatch
+- createContext
+- BrowserRouter
+- Link
+- Switch
+- Router
+- Redirect
 
 ## Version Information
 react-router-dom V5
