@@ -33,6 +33,7 @@ BrowserRouter
 Link
 Switch
 Router
+Redirect
 
 ## Version Information
 react-router-dom V5
